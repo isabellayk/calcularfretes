@@ -5,3 +5,8 @@ touch server.js
 npm init -y
 # 4- CIAR A DEPENDENCIA DO EXPRESS
 npm install express
+
+# 5- INSTALAR A DEPENDENCIA DE REQUISIÇÃO DE SERVIDOR(DOMINIO)
+npm install cors
+# 6- INSTALA A DEPENDENCIA PARA DEIXAR  SERVIDOR RODANDO SEMPRE
+npm install nodemon
